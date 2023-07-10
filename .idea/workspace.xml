@@ -3,7 +3,87 @@
   <component name="ChangeListManager">
     <list default="true" id="bf3d7061-1097-4aef-8508-618792d4a4c8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/compile" beforeDir="false" afterPath="$PROJECT_DIR$/bin/compile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/detect" beforeDir="false" afterPath="$PROJECT_DIR$/bin/detect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/heroku-hhvm-apache2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/heroku-hhvm-nginx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/heroku-php-apache2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/heroku-php-nginx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/phalcon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/release" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/util/blackfire.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/util/common.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/util/newrelic.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/apache2/default_include.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/apache2/heroku.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/apache2/httpd.conf.default" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/hhvm/php.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/nginx/default_include.conf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/nginx/heroku.conf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/nginx/nginx.conf.default" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/conf.d/ext-apcu.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/conf.d/ext-blackfire.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/conf.d/ext-imagick.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/conf.d/ext-memcached.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/conf.d/ext-mongo.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/conf.d/ext-newrelic.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/conf.d/ext-redis.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/conf.d/ext-zend-opcache.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/php-fpm.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/php/php.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/apache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/apache-2.4.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/apache-2.4.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/composer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/apcu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/blackfire" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/imagick" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/imagick-bare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/memcached" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/memcached-bare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/mongo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/newrelic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20121212/redis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/apcu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/blackfire" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/imagick" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/imagick-bare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/memcached" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/memcached-bare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/mongo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/newrelic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/extensions/no-debug-non-zts-20131226/redis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/hhvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/hhvm-3.2.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/hhvm-3.3.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/libraries/gettext" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/libraries/icu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/libraries/imagemagick" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/libraries/libmcrypt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/libraries/libmemcached" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/libraries/pcre" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/libraries/zlib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/nginx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/nginx-1.4.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/nginx-1.6.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.5.11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.5.12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.5.13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.5.14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.5.15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.5.16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.5.18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.5.19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.6.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.6.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.6.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.6.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/support/build/php-5.6.4RC1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +99,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration">
-    <include_path>
-      <path value="$PROJECT_DIR$/vendor/composer" />
-    </include_path>
   </component>
   <component name="ProjectId" id="2SMzUik0gvMcBfTe43Was0RgVmC" />
   <component name="ProjectViewState">
@@ -54,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688971255861</updated>
-      <workItem from="1688971257377" duration="1725000" />
+      <workItem from="1688971257377" duration="2066000" />
     </task>
     <servers />
   </component>
